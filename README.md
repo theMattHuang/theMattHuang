@@ -19,7 +19,7 @@ alt="Typing SVG" />
 - 🔐 Passionate about securing systems and leveraging **machine learning** to solve complex problems.
 - 💡 Exploring **machine learning**, **deep learning**, and **cyber defense mechanisms**.
 - 🌱 I'm improving my skills in **Python**, **TensorFlow**, **PyTorch**, and **cybersecurity tools** like **Wireshark**.
-- 🚀 Excited to contribute to **open-source** projects including **AI** and **cybersecurity** fields.
+- 🚀 Excited to contribute to **open-source** projects involving **AI** and **cybersecurity** fields.
 - ⚡ Fun fact: I enjoy playing with new algorithms and breaking systems to understand how they work!
 
 ---
