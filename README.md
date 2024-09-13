@@ -1,5 +1,5 @@
 <!-- Banner Image or Animated GIF -->
-![Cyberpunk Glitch](https://media.giphy.com/media/fdGcYKIJfF4ka/giphy.gif)
+![AI and Cybersecurity](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
 
 <h1 align="center">Hi, I'm Matthew Huang 👋</h1>
 <h3 align="center">AI Enthusiast & Cybersecurity Learner | Exploring the Future of Machine Learning & Ethical Hacking</h3>
@@ -17,7 +17,7 @@ alt="Typing SVG" />
 
 - 👨‍💻 I'm **Matthew Huang**, currently learning **AI** and **cybersecurity**!
 - 🔐 Passionate about securing systems and leveraging **machine learning** to solve complex problems.
-- 💡 Exploring **deep learning**, **NLP**, and **cyber defense mechanisms**.
+- 💡 Exploring **machine learning**, **deep learning**, and **cyber defense mechanisms**.
 - 🌱 I'm improving my skills in **Python**, **TensorFlow**, **PyTorch**, and **cybersecurity tools** like **Wireshark**.
 - 🚀 Excited to contribute to **open-source** projects including **AI** and **cybersecurity** fields.
 - ⚡ Fun fact: I enjoy playing with new algorithms and breaking systems to understand how they work!
