@@ -39,15 +39,6 @@
 <img src="https://skillicons.dev/icons?i=python,r,c,cpp,java,javascript,rust,matlab,haskell"/>
 </p>
 
-- Python  
-- R  
-- C  
-- C++  
-- Java  
-- JavaScript  
-- MATLAB  
-- Rust  
-- Haskell  
 
 ---
 
@@ -57,21 +48,6 @@
 <img src="https://skillicons.dev/icons?i=git,github,linux,vscode"/>
 </p>
 
-- Git / GitHub  
-- Linux  
-- VS Code  
-
----
-
-## GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default&hide_border=true"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true"/>
-</p>
 
 ---
 
@@ -87,8 +63,6 @@ Some projects I’m working on or planning to build:
 
 - **Quantitative Models**  
   Financial modelling and statistical experiments.
-
-More projects will appear here as they are developed.
 
 ---
 
