@@ -13,86 +13,93 @@
 
 ---
 
-### 🌟 **About Me**
+## About Me
 
-- 👨‍💻 I'm **Matthew Huang**, currently learning **AI** and **cybersecurity**!
-- 🔐 Passionate about securing systems and leveraging **machine learning** to solve complex problems.
-- 💡 Exploring **machine learning**, **deep learning**, and **cyber defense mechanisms**.
-- 🌱 I'm improving my skills in **Python**, **TensorFlow**, **PyTorch**, and **cybersecurity tools** like **Wireshark**.
-- 🚀 Excited to contribute to **open-source** projects involving **AI** and **cybersecurity** fields.
-- ⚡ Fun fact: I enjoy playing with new algorithms and breaking systems to understand how they work!
-
----
-
-### 💻 **Tech Stack**
-
-**Programming Languages:**
-
-![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black)
-![C](https://img.shields.io/badge/C-%2300599C.svg?style=flat-square&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=java&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-%23007ACC.svg?style=flat-square&logo=sql&logoColor=white)
-![R](https://img.shields.io/badge/R-%23276DC3.svg?style=flat-square&logo=r&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-%234EAA25.svg?style=flat-square&logo=gnubash&logoColor=white)
-
-**AI/ML Libraries & Tools:**
-
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat-square&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat-square&logo=pytorch&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-%23F37626.svg?style=flat-square&logo=jupyter&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=flat-square&logo=keras&logoColor=white)
-
-**Cybersecurity Tools:**
-
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-%23B61818.svg?style=flat-square&logo=kalilinux&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-%230167a7.svg?style=flat-square&logo=wireshark&logoColor=white)
-![Metasploit](https://img.shields.io/badge/Metasploit-%23232323.svg?style=flat-square&logo=metasploit&logoColor=white)
+- Actuarial science and Quantitative finance
+- Interested in **AI, cybersecurity, quantitative finance, and emerging technologies**
+- Learning a range of programming languages and technical tools
+- Curious about how technology, automation, and data shape the future
+- Long-term goal: build and lead technology companies
 
 ---
 
-### 📊 **GitHub Stats**
+## Interests
+
+- Artificial Intelligence  
+- Cybersecurity / ethical hacking  
+- Robotics and emerging technologies  
+- Quantitative finance  
+- Systems programming  
+
+---
+
+## Languages I'm Learning
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,r,c,cpp,java,javascript,rust,matlab,haskell"/>
+</p>
+
+- Python  
+- R  
+- C  
+- C++  
+- Java  
+- JavaScript  
+- MATLAB  
+- Rust  
+- Haskell  
+
+---
+
+## Tech Stack
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,linux,vscode,docker"/>
+</p>
+
+- Git / GitHub  
+- Linux  
+- VS Code  
+- Docker  
+- Command line tools  
+
+---
+
+## GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=matthewhuang&show_icons=true&hide_border=true&theme=tokyonight" />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=matthewhuang&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default&hide_border=true"/>
 </p>
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matthewhuang&layout=compact&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true"/>
 </p>
 
 ---
 
-### 🚀 **What I'm Currently Learning**
+## Projects
 
-- **Artificial Intelligence**: Machine Learning, Neural Networks, Deep Learning, and Natural Language Processing
-- **Cybersecurity**: Ethical Hacking, Network Security, and Malware Analysis
-- **Tools**: TensorFlow, PyTorch, Scikit-learn, Kali Linux, Metasploit
+Some projects I’m working on or planning to build:
 
----
+- **AI Experiments**  
+  Small projects exploring machine learning and neural networks.
 
-### 🛠️ **Projects**
+- **Cybersecurity Practice**  
+  Learning about system vulnerabilities and security concepts.
 
-1. **AI-based Cybersecurity Intrusion Detection System**
-   - Developing a machine learning model to detect cyber threats in real-time.
-   - Tools: Python, TensorFlow, Wireshark, Scikit-learn
-   - [GitHub Repository](https://github.com/matthewhuang/project1)
+- **Quantitative Models**  
+  Financial modelling and statistical experiments.
 
-2. **Deep Learning for Malware Classification**
-   - Applying neural networks to classify malware from binary files.
-   - Tools: PyTorch, Keras, Pandas
-   - [GitHub Repository](https://github.com/matthewhuang/project2)
+More projects will appear here as they are developed.
 
 ---
 
-### 💻 **Tools & IDEs I Use**
+## Currently Learning
 
-![Visual Studio Code](https://img.shields.io/badge/VSCode-%23007ACC.svg?style=flat-square&logo=visual-studio-code&logoColor=white)
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=flat-square&logo=github&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=flat-square&logo=linux&logoColor=black)
+- Artificial intelligence systems
+- Cybersecurity fundamentals
+- Systems programming
+- Advanced programming languages
 
 ---
 
