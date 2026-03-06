@@ -7,8 +7,8 @@
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=0078D6&center=true&width=800&height=50&lines=Welcome+to+My+GitHub+Profile!;AI+%26+Cybersecurity+Learner;Building+the+Future+with+Tech!;Always+Learning+%F0%9F%93%9A;Join+My+Journey!" 
-alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=0078D6&center=true&width=800&height=50&lines=Matthew+Huang;Actuarial+Science;Quantitative+Finance+%7C+Programming;Currently+Learning+New+Things" 
+  alt="Typing SVG" />
 </p>
 
 ---
