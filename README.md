@@ -54,14 +54,12 @@
 ## Tech Stack
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,linux,vscode,docker"/>
+<img src="https://skillicons.dev/icons?i=git,github,linux,vscode"/>
 </p>
 
 - Git / GitHub  
 - Linux  
 - VS Code  
-- Docker  
-- Command line tools  
 
 ---
 
