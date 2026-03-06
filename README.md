@@ -1,8 +1,8 @@
 <!-- Banner Image or Animated GIF -->
 ![AI and Cybersecurity](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
 
-<h1 align="center">Hi, I'm Matthew Huang 👋</h1>
-<h3 align="center">AI Enthusiast & Cybersecurity Learner | Exploring the Future of Machine Learning & Ethical Hacking</h3>
+<h1 align="center">Hi, I'm Matt Huang </h1>
+<h3 align="center">AI & Cybersecurity Learner | Exploring Machine Learning & Hacking</h3>
 
 ---
 
